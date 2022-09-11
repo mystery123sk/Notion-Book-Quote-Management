@@ -1,7 +1,9 @@
 # Notion-Book-Quote-Management
-Complete book or podcast management system running in Notion and displaying random quotes on your iOS/iPhone home screen. The quotes are generated from Notion database while respecting rating - the 5-star quotes are used 5x more than 1-star quotes.
+Complete book or podcast management system running in Notion and displaying random quotes on your iOS/iPhone home screen. The quotes are generated from Notion database while respecting rating - the 5-star quotes are used 5x more than 1-star quotes. It's is a free replacement for quite expensive applications you can purchase in App store.
 
-It's is a free replacement for quite expensive applications you can purchase in App store.
+You can check the following video about how to install and use the script:
+
+[![Video](https://img.youtube.com/vi/1IDmH7ytVoE/0.jpg)](https://www.youtube.com/watch?v=1IDmH7ytVoE)
 
 
 
