@@ -47,6 +47,8 @@ Use the secret token you've generated in 'Quote' API of Notion. It usually start
 
 The final step is to add Scriptable widget to your iPhone home screen. That's quite easy. Just hold the finger on some of your home screen page and add new widget. Choose Scriptable. And select the 'Quote' script you've created before.
 
+![alt text](https://github.com/mystery123sk/Notion-Book-Quote-Management/blob/main/homescreen.png "Scriptable widget on iPhone home screen")
+
 
 # Coffee
 
